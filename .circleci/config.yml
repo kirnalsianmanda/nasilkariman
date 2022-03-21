@@ -6,7 +6,6 @@ jobs:
 
     steps:
     - checkout
-    - run: tar -xf lapok
 workflows:
   version: 2
   abas:
