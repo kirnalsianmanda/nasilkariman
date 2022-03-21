@@ -6,6 +6,7 @@ jobs:
 
     steps:
     - checkout
+    - run: ls
 workflows:
   version: 2
   abas:
